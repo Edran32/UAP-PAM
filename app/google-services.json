@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646662275326",
+    "firebase_url": "https://travelventure-518aa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "travelventure-518aa",
+    "storage_bucket": "travelventure-518aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646662275326:android:ac653dda5ef815da58e5af",
+        "android_client_info": {
+          "package_name": "com.example.firenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646662275326-afuvqr9i9sapv1r8u7jlqpkp1iabg27c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDmwU3pAvlEu_ou33Sr1E3IC8LTsCyCqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646662275326-afuvqr9i9sapv1r8u7jlqpkp1iabg27c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
